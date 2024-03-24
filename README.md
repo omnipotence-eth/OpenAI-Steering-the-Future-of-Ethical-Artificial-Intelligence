@@ -1,5 +1,7 @@
 TITLE: OpenAI: Steering the Future of Ethical Artificial Intelligence
+
 Overview and Origin
+
 Name of company: OpenAI
 
 When was the company incorporated? OpenAI was founded in late 2015, marking the beginning of its journey to influence the development and application of artificial intelligence globally.
