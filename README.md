@@ -1,4 +1,4 @@
-TITLE: OpenAI: Steering the Future of Ethical Artificial Intelligence
+OpenAI: Steering the Future of Ethical Artificial Intelligence
 
 Overview and Origin
 
